@@ -22,7 +22,7 @@
             <RowDefinition Height="50"></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition Height="50"></RowDefinition>
-            
+            <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
         <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Right" VerticalAlignment="Center"/>
     <Button Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Концерты" x:Name="show"></Button>
