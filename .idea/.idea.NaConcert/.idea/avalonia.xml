@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="NaConcert/App.axaml" value="NaConcert/NaConcert.csproj" />
+        <entry key="NaConcert/Views/MainWindow.axaml" value="NaConcert/NaConcert.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
